@@ -63,6 +63,10 @@ footer{
     justify-content: space-around;
 }
 
+footer h2, footer h3, footer h4{
+    background-color: transparent;
+}
+
 main{
     max-width:1200px;
     margin: auto;
